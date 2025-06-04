@@ -1,4 +1,4 @@
-# ERP_XML
-A parser for xml of an ERP course in a certain university in Harbin.    
+# XML4ERP
+A XML creator for ERP course of a certain university in Harbin.    
 
 Thanks to better_kt_sqep.
